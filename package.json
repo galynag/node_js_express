@@ -1,0 +1,22 @@
+{
+  "name": "node_js_express",
+  "version": "1.0.0",
+  "description": "node.js +  express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galynag/node_js_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galynag/node_js_express/issues"
+  },
+  "homepage": "https://github.com/galynag/node_js_express#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.nav-pan, footer, aside {
+  background: lightgrey;
+}
+.nav-pan li, .nav-pan h1 {
+  display: inline-block;
+  margin: 10px 20px;
+}
+aside {
+  position: absolute;
+  right: 0;
+  height: 300px;
+  width: 50px;
+}
